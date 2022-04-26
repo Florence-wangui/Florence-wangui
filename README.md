@@ -15,11 +15,7 @@
 </div>
 <img src="https://komarev.com/ghpvc/?username=Florence-wangui&style=compact-square&color=blue" align="center" alt=""/>
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=Florence-wangui&theme=highcontrast&show_icons=true&count_private=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Florence-wangui&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
+![Github stats](https://github-readme-stats.vercel.app/api?username=Florence-wangui&theme=highcontrast&show_icons=true&count_private=true)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Florence-wangui&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/HwBlFQZFcAoUcPHZdX/giphy.gif" width="100"/>
